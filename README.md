@@ -2,7 +2,8 @@
 
 🖥️ Sou desenvolvedor Web Full stackc com foco em Frot-End
 
-🎒 Estudei Desenvolvimento de Software na Trybe! O curso incluiu: Fundamentos do Desenvolvimento Web, Desenvolvimento Front-end e Back-end, e também Ciência da Computação.
+🎒 Estudei Desenvolvimento de Software na Trybe! O curso incluiu: Fundamentos do Desenvolvimento Web, Desenvolvimento Front-end e Back-end, e também Ciência da Computação.<br/>
+São mais de 1500 horas, de experiência, com mais de 30 projetos realizados!
 <br/>
 <br/>
 
