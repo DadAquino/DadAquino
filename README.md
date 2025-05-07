@@ -1,10 +1,11 @@
 # Olá! Prazer, David Aquino 🤝🏿
 
-🖥️ Sou desenvolvedor Web Full stackc com foco em Frot-End
+🖥️ **Sou desenvolvedor Web Full stackc com foco em Frot-End**
 
-🎒 Estudei Desenvolvimento de Software na Trybe! O curso incluiu: Fundamentos do Desenvolvimento Web, Desenvolvimento Front-end e Back-end, e também Ciência da Computação.<br/>
+🎒 **Estudei Desenvolvimento de Software na Trybe! O curso incluiu: Fundamentos do Desenvolvimento Web, Desenvolvimento Front-end e Back-end, e também Ciência da Computação.** 
+<br/>
 
-🧠 São mais de 1500 horas, de experiência, com mais de 30 projetos realizados!
+🧠 **São mais de 1500 horas, de experiência, com mais de 35 projetos realizados!**
 <br/>
 <br/>
 
@@ -59,7 +60,7 @@
 
 ## Sobre mim 🔑
 
-Sou David Aquino, Desenvolvedor Web, tenho experiência de mais de 35 projetos de programação realizados, aplicando conhecimentos em HTML, CSS, React, Node.js, TypeScript.js, API RESTful, e bancos de dados. Possuo habilidades como: trabalho em equipe, resolução de problemas e liderança, desenvolvidas num período de mais de 4 anos atuando no mercado de trabalho.
+Sou David Aquino, Desenvolvedor Web, tenho experiência de mais de 35 projetos de programação realizados, aplicando conhecimentos em **HTML, CSS, React, Node.js, TypeScript.js, API RESTful, e bancos de dados.** Possuo habilidades como: **trabalho em equipe, resolução de problemas e liderança**, desenvolvidas num período de mais de **4 anos atuando no mercado de trabalho**.
 
 Anteriormente...
 
