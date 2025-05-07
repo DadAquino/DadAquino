@@ -1,6 +1,6 @@
 # Olá! Prazer, David Aquino 🤝🏿
 
-🖥️ **Sou desenvolvedor Web Full stackc com foco em Frot-End**
+🖥️ **Sou desenvolvedor Web Full stack com foco em Frot-End**
 
 🎒 **Estudei Desenvolvimento de Software na Trybe! O curso incluiu: Fundamentos do Desenvolvimento Web, Desenvolvimento Front-end e Back-end, e também Ciência da Computação.** 
 <br/>
